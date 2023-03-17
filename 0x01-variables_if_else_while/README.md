@@ -5,3 +5,4 @@
 5) program will prints the alphabet in lowercase, followed by a new line
 6) program will prints all single digit numbers of base 10 starting from 0, followed by a new line
 7) program will prints all single digit numbers of base 10 starting from 0, followed by a new line
+8) program will prints the lowercase alphabet in reverse, followed by a new line
