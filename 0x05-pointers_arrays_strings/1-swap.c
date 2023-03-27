@@ -2,7 +2,7 @@
 /**
  * swap_int -  swaps the values of two integers
  * @a: pointer parameter 1
- * b@: pointer parameter 2
+ * @b: pointer parameter 2
  *
  * Return: 0
  */
