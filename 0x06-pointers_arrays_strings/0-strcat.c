@@ -3,7 +3,7 @@
  * _strcat - concatenates two strings
  * @dest: string
  * @src: string
- * Retrun: pointer to resulting string (dest)
+ * Return: pointer to resulting string (dest)
  */
 char *_strcat(char *dest, char *src)
 {
