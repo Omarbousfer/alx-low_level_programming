@@ -4,7 +4,7 @@
 /**
  * struct dog - a new type struct
  * @name: char
- * @age: integer
+ * @age: float
  * @owner: char
  *
  * Description: data structure for a dog
@@ -12,7 +12,7 @@
 struct dog
 {
 	char *name;
-	int age;
+	float age;
 	char *owner;
 };
 
