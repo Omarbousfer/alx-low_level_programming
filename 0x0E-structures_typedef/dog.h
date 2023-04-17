@@ -8,13 +8,11 @@
  *
  * Description: poppy
  */
-typedef struct dog
+struct dog
 {
 	char *name;
 	int age;
 	char *owner;
-} dog;
-
-typedef dog dog_t;
+}
 
 #endif
