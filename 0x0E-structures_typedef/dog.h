@@ -2,9 +2,9 @@
 #define DOG_H
 /**
  * struct dog - a new type struct
- * name: char
- * age: integer
- * owner: char
+ * @name: char
+ * @age: integer
+ * @owner: char
  *
  * Description: poppy
  */
