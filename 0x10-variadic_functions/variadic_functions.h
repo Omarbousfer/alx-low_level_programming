@@ -8,11 +8,11 @@
  * @token: list of types of arguments
  * @f: float
  */
-typedef struct token
+typedef struct printf
 {
-	char *token;
-	void (*f)(char *, va_list);
-} token_t;
+	char *c;
+	void (*f)();
+} print;
 
 int sum_them_all(const unsigned int n, ...);
 void print_numbers(const char *separator, const unsigned int n, ...);
