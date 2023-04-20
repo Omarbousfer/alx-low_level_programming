@@ -18,6 +18,6 @@ void print_numbers(const char *separator, const unsigned int n, ...)
 	va_start(ap, n);
 	while (i--)
 		printf("%d%s", va_arg(ap, int),
-				! ? (seperator ? seperator : "") : "\n"):
+				! ? (seperator ? seperator : "") : "\n");
 	va_end(ap);
 }
